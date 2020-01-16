@@ -68,7 +68,7 @@
     display: block;
   }
   
-  #first_section:hover  {
+  #cta_1:hover  {
     background-color: yellow;
   }
   
@@ -102,7 +102,7 @@
     height: 9%;
   }
   
-  .services_wrapper {
+  .services {
     display: block;
     margin: 0 auto;
     text-align: center;
@@ -135,7 +135,7 @@
     width: 19%;
   }
   
-  .testimonials_wrapper {
+  .testimonials {
     display: block;
     margin: 0 auto;
     text-align: center;
