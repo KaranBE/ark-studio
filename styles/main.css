@@ -112,11 +112,11 @@
     height: 60%;
   }
   
-  .services_wrapper h1 {
+  .services h1 {
       margin-top: 0px;margin-bottom: 5px; padding-top: 60px; color: #616264; font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
   
-  .services_wrapper li {
+  .services li {
   position: relative;display: inline-block;
   }
   .recent_work {
@@ -220,7 +220,7 @@
     padding-left: 4%;
   }
   
-  .footer_copyright {
+  .rights {
     position: absolute;
     margin-top: 30%;
     left: 40%;
