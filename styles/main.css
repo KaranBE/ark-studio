@@ -209,13 +209,13 @@
   .footer_company {
     display: inline-block;
     padding: 8%;
-    
+    float: left;
     padding-left: 0px;
   }
   
   .footer_support {
     display: inline-block;
-    
+    float: left;
     padding: 8%;
     padding-left: 4%;
   }
@@ -228,7 +228,7 @@
   
   .footer_about {
     display: inline-block;
-    
+    float: left;
     padding-top: 8%;
     padding-bottom: 8%;
     padding-left: 2%;
