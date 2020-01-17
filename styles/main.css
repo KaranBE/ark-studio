@@ -245,4 +245,6 @@
     background-image: url(/ark-studio/img/social_hover.png);
   }
   
-
+#cta_1 {
+    margin-top: 0; margin-bottom: 0; width: 60%; padding: 3%;  display: inline-block; letter-spacing: 0.12rem;
+}
