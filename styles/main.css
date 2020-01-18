@@ -168,7 +168,8 @@
     font-size: 14px;
     letter-spacing: 1px;
     text-align: left;
-    
+    padding-top: 5%;
+    margin-top:-92.5px;
   }
   
   .footer_widget li {
@@ -246,7 +247,7 @@
   
   .rights {
     position: absolute;
-    margin-top: -4%;
+    margin-top: 23%;
     left: 40%;
   }
   
@@ -315,4 +316,8 @@ padding-bottom: 8px;
 
 .cta_div{
   width: 100%;margin: 0 auto;background-color: #434343;position: relative;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  width: 66%;
 }
