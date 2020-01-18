@@ -219,7 +219,7 @@
     color: #616264;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
-  .footer_company a {
+  .footer_company a, .footer_support a {
     text-decoration: none;
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -246,13 +246,9 @@
   }
   
   .rights {
-    /* position: absolute; */
+    position: absolute;
     margin-top: -5%;
-    text-align: center;
-    color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 14px;
-    letter-spacing: 1px;
+    left: 40%;
   }
   
   .footer_about {
