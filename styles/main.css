@@ -246,9 +246,13 @@
   }
   
   .rights {
-    position: absolute;
-    margin-top: 23%;
-    left: 40%;
+    /* position: absolute; */
+    margin-top: -5%;
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    letter-spacing: 1px;
   }
   
   .footer_about {
