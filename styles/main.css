@@ -168,7 +168,7 @@
     font-size: 14px;
     letter-spacing: 1px;
     text-align: left;
-    padding-top: 4%;
+    
   }
   
   .footer_widget li {
@@ -218,6 +218,15 @@
     color: #616264;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
+  .footer_company a {
+    text-decoration: none;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    letter-spacing: 1px;
+    text-align: left;
+  }
+  
   
   .footer_location,
   .footer_company {
@@ -226,6 +235,7 @@
     float: left;
     padding-left: 0px;
   }
+
   
   .footer_support {
     display: inline-block;
@@ -304,5 +314,5 @@ padding-bottom: 8px;
 }
 
 .cta_div{
-  width: 66%;margin: 0 auto;background-color: #434343;position: relative;top: -70%;
+  width: 100%;margin: 0 auto;background-color: #434343;position: relative;
 }
